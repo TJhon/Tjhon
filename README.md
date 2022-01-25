@@ -7,11 +7,7 @@
 
 - 📫 How to reach me **fr.jhonk@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/jhonkevinflore1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhonkevinflore1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jhon-kevin-flores-rojas-a19133196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon-kevin-flores-rojas-a19133196" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="center">Languages</h3>
 <p align="center"> 
@@ -32,3 +28,8 @@
 
 <p align = 'center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjhon&show_icons=true&hide=jupyter%20notebook,vim%20script%0A&theme=algolia&locale=en&layout=compact" alt="tjhon" /></p>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/jhonkevinflore1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhonkevinflore1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jhon-kevin-flores-rojas-a19133196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon-kevin-flores-rojas-a19133196" height="30" width="40" /></a>
+</p>
